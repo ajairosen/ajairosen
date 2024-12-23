@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajai Rosen</h1>
-<h3 align="center">I turn messy data into meaningful insights. Whether it's cleaning, analyzing, or building pipelines, I make sure data flows as smoothly as possible. I use AI for predictions and automation, and I’m pretty good at scraping data (without breaking a sweat). If it's data, I’ve got it covered—efficiency, automation, and a bit of humor along the way. #DataScience #DataEngineering #Automation #AI</h3>
+<h3 align="center">Part-time magician, full-time data enthusiast. By day, I clean, transform, and analyze data; by night, I build pipelines that run smoother than coffee. I predict, automate, and let AI do the heavy lifting (but I’m still in control). Whether it’s code or insights, I’m your data go-to. #DataWizardry #AIOverlordn #AI</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajairosen" alt="ajairosen" /></a> </p>
 
