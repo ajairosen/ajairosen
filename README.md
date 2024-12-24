@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajairosen" alt="ajairosen" /></a> </p>
 
-- 🔭 I’m currently working on **Graph RAG**
+- 🔭 I’m currently working on **End to end deep learning pipelien**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajairosen/](https://github.com/ajairosen/)
 
