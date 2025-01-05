@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajairosen/](https://github.com/ajairosen/)
+- 👨‍💻 All of my old projects are available at [https://github.com/ajairosen/](https://github.com/ajairosen11/)
 
 - 📫 How to reach me **vishalajairosen.works@gmail.com**
 
