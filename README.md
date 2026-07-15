@@ -1,21 +1,197 @@
-<h1 align="center">Hi 👋, I'm Ajai Rosen</h1>
-<h3 align="center">Part-time magician, full-time data enthusiast. By day, I clean, transform, and analyze data; by night, I build pipelines that run smoother than coffee. I predict, automate, and let AI do the heavy lifting (but I’m still in control). Whether it’s code or insights, I’m your data go-to. #DataWizardry #AIOverlordn #AI</h3>
+<h1 align="center">Hi 👋, I'm Vishal Ajai Rosen V</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajairosen" alt="ajairosen" /></a> </p>
+<h3 align="center">
+AI/ML Engineer • LLM Systems • Agentic AI • RAG • Building production-grade AI applications with local and cloud LLMs.
+</h3>
 
-- 🔭 I’m currently working on **Agentic RAG**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ajairosen/](https://github.com/ajairosen/)
-- 👨‍💻 All of my old projects are available at [https://github.com/ajairosen11/](https://github.com/ajairosen11/)
-
-- 📫 How to reach me **vishalajairosen.works@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I enjoy building intelligent systems that retrieve, reason, and automate. From scalable data pipelines and hybrid search to multi-agent workflows and LLM evaluation, I love turning AI research into production-ready solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajairosen&" alt="ajairosen" /></p>
+## 🚀 About Me
 
+- 🔭 Currently building **Agentic AI Systems** with LangGraph & MCP
+- 🌱 Exploring **Multi-Agent Architectures**, **GraphRAG**, and **LLM Optimization**
+- 💬 Ask me about
+  - RAG & GraphRAG
+  - Agentic AI
+  - LangChain & LangGraph
+  - Hybrid Search
+  - Qdrant
+  - Airflow
+  - Docker
+  - Local LLM Inference
+- ⚡ Fun fact:
+  > I enjoy optimizing AI systems as much as building them. If a workflow can be automated, I'm probably already thinking about it.
+
+---
+
+## 💼 Current Work
+
+**Lead Associate – AI & Automation**
+Indian Political Action Committee (I-PAC)
+
+Currently working on production-scale AI systems involving
+
+- 🤖 Agentic RAG
+- 🧠 Local LLM deployment (llama.cpp)
+- 🔍 Hybrid Retrieval (Dense + BM25)
+- 📚 Cross Encoder Reranking
+- 🕸️ GraphRAG
+- 🚦 Query Routing
+- 🛡️ Guardrails
+- 📊 RAG Evaluation (RAGAS)
+- 🔎 LangSmith Tracing
+- 🐳 Dockerized AI Pipelines
+- ⚙️ Apache Airflow
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,git,docker,vscode" />
+</p>
+
+### AI / Machine Learning
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- BERTopic
+- Sentence Transformers
+- HuggingFace
+- LangChain
+- LangGraph
+- Pydantic
+
+### LLM Stack
+
+- RAG
+- GraphRAG
+- Agentic AI
+- Prompt Engineering
+- LoRA Fine-tuning
+- llama.cpp
+- MCP
+- LangSmith
+- RAGAS
+
+### Vector Databases
+
+- Qdrant
+- Hybrid Search
+- HNSW
+- Cross Encoder Re-ranking
+
+### Data Engineering
+
+- Apache Airflow
+- Docker
+- PySpark
+- Azure Data Lake
+- Azure Data Factory
+- Synapse Analytics
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 News & Social Media AI Agent
+
+Production-scale Agentic RAG system featuring
+
+- Automated data ingestion
+- Local LLM inference
+- Hybrid Retrieval
+- SQL + Vector Routing
+- Hallucination Detection
+- Dynamic LLM Routing
+- LangGraph Agents
+
+---
+
+### ⚽ Football GraphRAG Chatbot
+
+- Neo4j Knowledge Graph
+- GraphRAG
+- Context-aware Retrieval
+- LLM Response Generation
+
+---
+
+### 🧠 GPT From Scratch
+
+Implemented a GPT-style language model in PyTorch featuring
+
+- Multi-head Attention
+- Positional Encoding
+- LayerNorm
+- Transformer Blocks
+- Causal Masking
+- Text Generation
+
+---
+
+### 🤝 Multi-Agent System
+
+Building a hierarchical multi-agent architecture using
+
+- LangGraph
+- FastMCP
+- MultiServerMCPClient
+- Tool Calling
+- Supervisor Agents
+
+---
+
+## 📦 Open Source
+
+### Swiggy Scraper (PyPI)
+
+A reusable Selenium-based Python package for automated Swiggy data extraction.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajairosen&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajairosen&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajairosen&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 **Email:** vishalajairosen.works@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/vishal-ajai-rosen-v-3b6648312
+- 💻 GitHub: https://github.com/ajairosen
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build production-ready AI Agents
+- ✅ Master GraphRAG
+- ✅ Contribute to Open Source AI
+- ✅ Build scalable Multi-Agent Systems
+- ✅ Learn advanced LLM optimization techniques
+- ✅ Explore Model Context Protocol (MCP) ecosystem
+
+---
+
+<p align="center">
+
+<i>"Building AI systems that don't just answer questions—they reason, retrieve, and take action."</i>
+
+</p>
