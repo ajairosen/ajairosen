@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Ajai Rosen V</h1>
 
 <h3 align="center">
-AI/ML Engineer • LLM Systems • Agentic AI • RAG • Building production-ready AI applications.
+AI/ML Engineer • LLM Systems • Agentic AI • RAG • Building production-ready AI applications
 </h3>
 
 ---
