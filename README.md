@@ -8,7 +8,7 @@ AI/ML Engineer • LLM Systems • Agentic AI • RAG • Building production-re
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Agentic RAG & Multi-Agent Systems**
+- 🔭 Currently working on **Agentic RAG & Multi-Agent Systems.**
 - 🌱 Learning **GraphRAG, MCP & LLM Optimization.**
 - 💬 Ask me about **LLMs, RAG, LangGraph, LangChain, Qdrant, Airflow & Docker**
 - 📫 **vishalajairosen.works@gmail.com**
